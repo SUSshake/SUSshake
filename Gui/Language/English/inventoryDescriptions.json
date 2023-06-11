@@ -7,6 +7,10 @@
       "description" : "Use a logic input to turn it on and off. It’s heavy when off, but very light and buoyant when activated.",
       "title" : "Air Tank"
    },
+	 "5f03310a-7787-4682-ad3e-6dfef4c32893" : {
+      "description" : "SUSshake makes you SUS",
+      "title" : "SUSshake"
+   },
    "0db1ecd5-503d-4dd3-807e-869c243a7c08" : {
       "description" : "A sharp stick. Useful to poke and hurt things.",
       "title" : "Spear"
