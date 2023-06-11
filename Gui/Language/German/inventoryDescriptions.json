@@ -6,6 +6,11 @@
    "03075a5a-92f5-49bd-b132-7d8e0cb80156": {
         "description": "Verwende ein Logisches Eingangssignal um ihn ein- und auszuschalten. Er ist schwer wenn er ausgeschaltet ist. Aber sehr leicht und schwimmfähig wenn er aktiviert ist.",
         "title": "Luftbehälter"
+	   
+   },
+	 "5f03310a-7787-4682-ad3e-6dfef4c32893" : {
+      "description" : "SUSshake bist du SUS",
+      "title" : "SUSshake"
    },
    "0db1ecd5-503d-4dd3-807e-869c243a7c08": {
         "description": "Ein spitzer Stock. Nützlich um Dinge zu stechen und zu verletzen.",
