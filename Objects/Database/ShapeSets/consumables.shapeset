@@ -1,5 +1,54 @@
 {
    "partList" : [
+   {
+	"uuid": "5f03310a-7787-4682-ad3e-6dfef4c32893",
+			"name": "obj_consumable_sus_shake",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$CONTENT_DATA/Objects/Textures/Consumables/obj_consumable_sus_shake_dif.tga",
+									"$MOD_DATA/Objects/Textures/obj_consumable_sus_shake_asg.tga",
+									"$MOD_DATA/Objects/Textures/obj_consumable_sus_shake_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$SURVIVAL_DATA/Objects/Mesh/consumable/obj_consumable_sunshake.fbx"
+					}
+				]
+			},
+			"color": "fe878c",
+			"cylinder": {
+				"diameter": 1,
+				"depth": 1,
+				"margin": 0.04,
+				"axis": "Y"
+			},
+			"rotationSet": "PropY",
+			"sticky": "-Y+Y",
+			"physicsMaterial": "Metal",
+			"ratings": {
+				"density": 2,
+				"durability": 1,
+				"friction": 4,
+				"buoyancy": 7
+			},
+			"flammable": true,
+			"consumable": true,
+			"stackSize": 5,
+			"restrictions": {
+				"erasable": true
+			},
+			"edible": {
+				"hpGain": 10,
+				"foodGain": 25,
+				"waterGain": 35
+			},
+			"autoTool": "2bff990a-0e74-43c7-b7dc-889b3a086fa3"
+		},
       {
          "autoTool" : "2bff990a-0e74-43c7-b7dc-889b3a086fa3",
          "box" : {
